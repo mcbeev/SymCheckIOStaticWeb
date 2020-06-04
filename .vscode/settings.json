@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/26c0bb4b-fe5e-4633-a222-36d1fd7d5eeb/resourceGroups/rg-SymCheck/providers/Microsoft.Web/sites/symcheck-io",
+    "appService.deploySubpath": "."
+}
