@@ -2,13 +2,13 @@
     "routes": [
       {
         "route": "/brian",
-        "serve": "/brian42",
+        "serve": "/404.html",
         "statusCode": 301
       }
     ],"platformErrorOverrides": [
         {
           "errorType": "NotFound",
-          "serve": "https://app.symcheck.io/new"
+          "serve": "redirect.html"
         }
       ]
   }
