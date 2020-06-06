@@ -2,7 +2,7 @@
     "routes": [
       {
         "route": "/*/brian",
-        "serve": "app.symcheck.io/brian",
+        "serve": "https://app.symcheck.io/brian",
         "statusCode": 301
       }
     ],"platformErrorOverrides": [
