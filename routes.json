@@ -1,14 +1,14 @@
 {
     "routes": [
       {
-        "route": "/*/brian",
-        "serve": "https://app.symcheck.io/brian",
+        "route": "/brian",
+        "serve": "/brian42",
         "statusCode": 301
       }
     ],"platformErrorOverrides": [
         {
           "errorType": "NotFound",
-          "serve": "/404.html"
+          "serve": "https://app.symcheck.io/new"
         }
       ]
   }
